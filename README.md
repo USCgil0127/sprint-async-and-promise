@@ -114,7 +114,10 @@ basicChaining  ➡️  promiseAll  ➡️  asyncAwait
 
 - #### [AJAX 와 fetch](https://velog.io/@gil0127/%EB%82%A0%EC%94%A8-API-Sprint-%EC%A7%84%ED%96%89%ED%95%98%EB%A9%B4%EC%84%9C-%EB%B0%B0%EC%9A%B4-%EC%A0%90)
 
+- #### [JS 비동기의 핵심 Event Loop](https://velog.io/@gil0127/JS-%EB%B9%84%EB%8F%99%EA%B8%B0-%ED%95%B5%EC%8B%AC-Event-Loop)
+
 ---------------
 
 # Sprint를 마치고 느낀 점
+
 
