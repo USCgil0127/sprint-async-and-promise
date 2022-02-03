@@ -104,15 +104,15 @@ basicChaining  ➡️  promiseAll  ➡️  asyncAwait
 
 ## 필자가 정리한 Sprint 관련 개념들
 
-#### [JS 비동기와 논블로킹](https://velog.io/@gil0127/JS-%EB%B9%84%EB%8F%99%EA%B8%B0-asynchronous) 
+- #### [JS 비동기와 논블로킹](https://velog.io/@gil0127/JS-%EB%B9%84%EB%8F%99%EA%B8%B0-asynchronous) 
 
-#### [콜백 함수와 비동기 처리](https://velog.io/@gil0127/%EC%BD%9C-%EC%8A%A4%ED%83%9D%EA%B3%BC-%EB%B9%84%EB%8F%99%EA%B8%B0-%ED%95%A8%EC%88%98)
+- #### [콜백 함수와 비동기 처리](https://velog.io/@gil0127/%EC%BD%9C-%EC%8A%A4%ED%83%9D%EA%B3%BC-%EB%B9%84%EB%8F%99%EA%B8%B0-%ED%95%A8%EC%88%98)
 
-#### [Promise & async , await](https://velog.io/@gil0127/Promise-async-await)
+- #### [Promise & async , await](https://velog.io/@gil0127/Promise-async-await)
 
-#### [fs module 이란](https://velog.io/@gil0127/fs-module-%EC%9D%B4%EB%9E%80)
+- #### [fs module 이란](https://velog.io/@gil0127/fs-module-%EC%9D%B4%EB%9E%80)
 
-#### [AJAX 와 fetch](https://velog.io/@gil0127/%EB%82%A0%EC%94%A8-API-Sprint-%EC%A7%84%ED%96%89%ED%95%98%EB%A9%B4%EC%84%9C-%EB%B0%B0%EC%9A%B4-%EC%A0%90)
+- #### [AJAX 와 fetch](https://velog.io/@gil0127/%EB%82%A0%EC%94%A8-API-Sprint-%EC%A7%84%ED%96%89%ED%95%98%EB%A9%B4%EC%84%9C-%EB%B0%B0%EC%9A%B4-%EC%A0%90)
 
 ---------------
 
